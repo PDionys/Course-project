@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client/src"/>
+	<classpathentry kind="src" path="Server/src"/>
+	<classpathentry kind="src" path="Authentication Microservice"/>
+	<classpathentry kind="src" path="UserActions Microservice"/>
+	<classpathentry kind="src" path="Log Microservice"/>
+	<classpathentry kind="output" path="out/production/Client"/>
+</classpath>
